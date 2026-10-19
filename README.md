@@ -1,2 +1,2 @@
-# geometry-dash-2-epic-ship
+index.html
 Mi juego de naves
